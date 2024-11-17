@@ -1,0 +1,9 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: D:/Mini 2/  # dataset root dir
+train: images/train  # train images (relative to 'path') 128 images
+val: images/val  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+nc: 34 # number of classes
+names: ['Traffic Signal', 'Lamp Post', 'Zebra Crossing', 'Bike', 'Car', 'Rikshaw', 'Tyre Works', 'Tree', 'Tractor', 'Cattle', 'Vegetation', 'Electricity Pole', 'Building', 'Board', 'Wall', 'person', 'Bus', 'Bridge', 'Road Divider', 'Tempo', 'Traffic Sign Board', 'Flag', 'Crane', 'Cycle', 'Dog', 'Truck', 'Overbridge', 'Manhole', 'Bus Stop', 'Barricade', 'Petrol Pump', 'Ambulance', 'Goat', 'Cart']
