@@ -1,0 +1,39 @@
+names:
+  0: Traffic Signal
+  1: Lamp Post
+  2: Zebra Crossing
+  3: Bike
+  4: Car
+  5: Rikshaw
+  6: Tyre Works
+  7: Tree
+  8: Tractor
+  9: Cattle
+  10: Vegetation
+  11: Electricity Pole
+  12: Building
+  13: Board
+  14: Wall
+  15: person
+  16: Bus
+  17: Bridge
+  18: Road Divider
+  19: Tempo
+  20: Traffic Sign Board
+  21: Flag
+  22: Crane
+  23: Cycle
+  24: Dog
+  25: Truck
+  26: Overbridge
+  27: Manhole
+  28: Bus Stop
+  29: Barricade
+  30: Petrol Pump
+  31: Ambulance
+  32: Goat
+  33: Cart
+nc: 34
+path: F:/Mini 2/
+train: images/train
+val: images/val
